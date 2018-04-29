@@ -5,6 +5,7 @@
 ```Bash
   pyinstaller -F UI_word.py
 ```
+生成出可执行文件，然后把exe文件和excel文件放在同一目录下。<br>
 ![Alt text](https://raw.githubusercontent.com/leviome/vocabulary_notebook_v2.0/master/pictures/p1.PNG)
 <br>首先，能够判断输入是否是英文:<br>
 ![Alt text](https://raw.githubusercontent.com/leviome/vocabulary_notebook_v2.0/master/pictures/p2.PNG)
