@@ -13,7 +13,7 @@ class Ui_levio_word(object):
         levio_word.setObjectName("levio_word")
         levio_word.resize(437, 477)
         icon = QtGui.QIcon()
-        icon.addPixmap(QtGui.QPixmap("C:/Users/levio/Pictures/icon.jpg"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
+        icon.addPixmap(QtGui.QPixmap("pictures/icon.jpg"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
         levio_word.setWindowIcon(icon)
         self.textEdit = QtWidgets.QTextEdit(levio_word)
         self.textEdit.setGeometry(QtCore.QRect(60, 30, 291, 41))
