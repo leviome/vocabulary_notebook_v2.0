@@ -3,3 +3,6 @@
 ![Alt text](https://raw.githubusercontent.com/leviome/vocabulary_notebook_v2.0/master/pictures/p1.PNG)
 <br>首先，能够判断输入是否是英文:<br>
 ![Alt text](https://raw.githubusercontent.com/leviome/vocabulary_notebook_v2.0/master/pictures/p2.PNG)
+![Alt text](https://raw.githubusercontent.com/leviome/vocabulary_notebook_v2.0/master/pictures/p3.PNG)
+![Alt text](https://raw.githubusercontent.com/leviome/vocabulary_notebook_v2.0/master/pictures/p4.PNG)
+![Alt text](https://raw.githubusercontent.com/leviome/vocabulary_notebook_v2.0/master/pictures/p5.PNG)
